@@ -1,41 +1,41 @@
-한국어 단어,English word,汉语单词,汉语拼音
-명사,noun,名次,míngcí
-구두,dress shoes,正装鞋,zhèngzhuāngxié
-굽,heel,脚跟,jiǎogēn
-단어,vocabulary,词汇,cíhuì
-마음,head, heart,头脑,tóunǎo
-반값,half price,半价,bànjià
-반바지,shorts,短裤,duǎnkù
-블라우스,blouse,女衬衫,nǔchènshān
-샌들,sandals,凉鞋,liángxié
-스타일,style,风格,fēnggè
-원피스,(one-piece) dress,连衣裙,liányīqún
-유행(하다),fashion, trend,时尚,shíshàng
-자켓,jacket,上衣,shàngyī
-정가,normal price,正常价格,zhēngchángjiàgé
-정장,formal suit,礼服,lǐfú
-치마,skirt,裙子,qúnzǐ
-카메라,camera,相机,xiàngjī
-현금,cash,现金,xiànjīn
-수분류사,count word,量词,liàngcí
-벌,a pair of,双,shuāng
-동사,verb,动词,dòngcí
-닫다,to close,关闭,guānbì
-나이가 들다,to gain age,长大,zhǎngdà
-마음에 들다,to be to one’s liking (to fall into one’s heart),喜欢,xǐhuān
-떠나다,to leave,离开,líkāi
-(돈을) 벌다,to earn (money),中赚,zhōngzhuàn
-외우다,to memorize,记住,jìzhù
-형용사,adjective,形容词,xíngróngcí
-정상,normal,正常,zhèngcháng
-높다,high up,高,gāo
-단정하다,neat,整洁,zhěngjié
-얇다,thin,薄,báo
-필요하다,necessary,必要的,bìyào
-부사,adverb,副词,fùcí
-마침,just in time,机时,jíshí
-아직도,still, …,仍然,réngrán
-함께,together,一起,yīqǐ
-접미사,suffix,后缀,hòuzhuì
-~(으)려고 하다,intend to,打算,dǎsuàn
-~기가 쉽다/어렵다,~ is easy/difficult,很（容易/难）~,hěn róngyì/nán ~
+한국어 단어,English word,汉语单词,汉语拼音,Image
+명사,noun,名次,míngcí,
+구두,dress shoes,正装鞋,zhèngzhuāngxié,images/week001/dress_shoes.png
+굽,heel,脚跟,jiǎogēn,images/week001/heel.png
+단어,vocabulary,词汇,cíhuì,images/week001/vocabulary.png
+마음,"head, heart",头脑,tóunǎo,images/week001/head_heart.png
+반값,half price,半价,bànjià,images/week001/halfprice.png
+반바지,shorts,短裤,duǎnkù,images/week001/shorts.png
+블라우스,blouse,女衬衫,nǔchènshān,images/week001/blouse.png
+샌들,sandals,凉鞋,liángxié,images/week001/sandals.png
+스타일,style,风格,fēnggè,images/week001/style.png
+원피스,(one-piece) dress,连衣裙,liányīqún,images/week001/dress.png
+유행(하다),"fashion, trend",时尚,shíshàng,images/week001/fashion_trend.png
+자켓,jacket,上衣,shàngyī,images/week001/jacket.png
+정가,normal price,正常价格,zhēngchángjiàgé,images/week001/normal_price
+정장,formal suit,礼服,lǐfú,images/week001/suit.png
+치마,skirt,裙子,qúnzǐ,images/week001/skirt.png
+카메라,camera,相机,xiàngjī,images/week001/camera.png
+현금,cash,现金,xiànjīn,images/week001/cash.png
+수분류사,count word,量词,liàngcí,
+벌,a pair of,双,shuāng,images/week001/pair.png
+동사,verb,动词,dòngcí,images/week001/verb.png
+닫다,to close,关闭,guānbì,images/week001/to_close.png
+나이가 들다,to gain age,长大,zhǎngdà,images/week001/to_gain_age.png
+마음에 들다,to be to one’s liking (to fall into one’s heart),喜欢,xǐhuān,images/week001/to_fall_into_heart.png
+떠나다,to leave,离开,líkāi,images/week001/to_leave.png
+(돈을) 벌다,to earn (money),中赚,zhōngzhuàn,images/week001/to_earn_money.png
+외우다,to memorize,记住,jìzhù,images/week001/to_memorize.png
+형용사,adjective,形容词,xíngróngcí,images/week001/adjective.png
+정상,normal,正常,zhèngcháng,images/week001/normal.png
+높다,high up,高,gāo,images/week001/high_up.png
+단정하다,neat,整洁,zhěngjié,images/week001/neat_clothes.png
+얇다,thin,薄,báo,images/week001/thin_flat.png
+필요하다,necessary,必要的,bìyào,images/week001/necessary.png
+부사,adverb,副词,fùcí,images/week001/adverb.png
+마침,just in time,机时,jíshí,images/week001/just_in_time.png
+아직도,"still, ...",仍然,réngrán,
+함께,together,一起,yīqǐ,images/week001/together.png
+접미사,suffix,后缀,hòuzhuì,images/week001/suffix.png
+~(으)려고 하다,intend to,打算,dǎsuàn,images/week001/to_intend_to.png
+~기가 쉽다/어렵다,~ is easy/difficult,很（容易/难）~,hěn róngyì/nán ~,images/week001/easy_vs_difficult.png
