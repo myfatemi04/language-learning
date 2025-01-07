@@ -50,6 +50,11 @@ def make_deck(num_words, week_number):
     with open("wordlists/queue_write_log.json", "w") as f:
         json.dump(log, f)
 
+    # render the deck as html
+    df = df.drop(columns=["Image"])
+    with open("deck.html", "w") as f:
+        f.write(df.style.to_html(index=False))
+
 
 if __name__ == "__main__":
     make_deck(int(sys.argv[1]), int(sys.argv[2]))
