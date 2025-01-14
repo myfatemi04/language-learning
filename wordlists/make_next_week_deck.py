@@ -50,10 +50,36 @@ def make_deck(num_words, week_number):
     with open("wordlists/queue_write_log.json", "w") as f:
         json.dump(log, f)
 
-    # render the deck as html
-    df = df.drop(columns=["Image"])
+    css = """
+<style>
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+th:nth-child(1) {
+    width: 34%;
+}
+th:nth-child(2) {
+    width: 66%;
+}
+</style>
+"""
+    html = css + "<table><tr><th>Word / 단어</th><th>Sentence/Usage Notes</th></tr>"
+
+    for row in df.iterrows():
+        row = row[1]
+        html += (
+            f'<tr><td>{row["한국어 단어"]}<br/>{row["English Word"]}</td><td></td></tr>'
+        )
+
+    html += "</table>"
+
     with open("deck.html", "w") as f:
-        f.write(df.style.to_html(index=False))
+        f.write(html)
 
 
 if __name__ == "__main__":

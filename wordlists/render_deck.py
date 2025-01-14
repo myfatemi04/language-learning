@@ -4,7 +4,7 @@ Useful for when you want to create a google docs table.
 
 import pandas as pd
 
-df = pd.read_csv("decks/week006_deck.csv")
+df = pd.read_csv("decks/week007_deck.csv")
 
 css = """
 <style>
